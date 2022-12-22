@@ -1,0 +1,13 @@
+.settingsComponent{
+    padding-top: 15px;
+}
+
+.settingsComponent div {
+    display: flex;
+    flex-direction: column;
+}
+
+.settingsComponent div button {
+    margin-top: 15px;
+    width: 100%;
+}
